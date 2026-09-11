@@ -1,4 +1,4 @@
-# CAEapplicatin
+# CAEapplication
 
 CAE活用のための不確かさの定量化: ガウス過程回帰と実験計画法を用いたサロゲートモデリング (近代科学社Digital)  
 豊則 有擴(とよのり ゆうこう)
